@@ -23,6 +23,9 @@ h2, p{
     font-weight: bold;
 
 }
+main{
+    height: 500px;
+}
 h4, p{
     color: #fff;
     text-align: center;
@@ -77,10 +80,41 @@ header nav ul li a:hover{
     left: 0;
     background-color: black;
     
+    
 }
 .container:hover .overlayLeft{
     width: 100%;
 }
 .image{
     border: 1px white;
+}
+a{
+    list-style-type: none;
+}
+a{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 20px;
+    border: 1px solid #fff;
+    list-style-type: none;
+}
+#Mail{
+    position:  relative;
+    left: 710px;
+
+}
+#nummer{
+    position: relative;
+    left: 665px;
+}
+/* #plaatje{
+    position: relative;
+    left: 630px;
+} */
+.image-container{
+    display: flex;
+    justify-content: center;
 }
