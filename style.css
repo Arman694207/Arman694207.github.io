@@ -174,11 +174,11 @@ input[type=text], select, textarea {
       margin-top: 50px;
       
   }
- #groen a:hover{
+ #groen:hover{
      background-color: green;
 
  }
- #rood a:hover{
+ #rood:hover{
      background-color: red;
 
 
