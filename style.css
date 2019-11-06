@@ -176,13 +176,53 @@ input[type=text], select, textarea {
   }
  #groen:hover{
      background-color: green;
+     border: solid black 2px;
 
  }
  #rood:hover{
      background-color: red;
+     border: solid black 2px;
+     
 
 
  }
+ #wit{
+     color:white;
+     flex-direction: row;
+     justify-content: center;
+     left: 100px;
+ }
+ #wiz{
+     justify-content: center;
+     left: 600px;
+     margin-left: 105px;
+ }
+ #wid{
+    justify-content: center;
+    left: 600px;
+    margin-left: 110px;
+
+ }
+#wizd{
+    justify-content: center;
+    left: 600px;
+    margin-left: 100px;
+}
+#wizdd{
+    justify-content: center;
+    left: 600px;
+    margin-left: 110px;
+}
+#wizddd{
+    justify-content: center;
+    left: 600px;
+    margin-left: 110px;
+}
+#logo{
+    justify-content: center;
+    display: inline-block;
+    position: relative;
+}
   
     
     
