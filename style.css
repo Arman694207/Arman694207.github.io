@@ -172,8 +172,18 @@ input[type=text], select, textarea {
       flex-direction: row;
       justify-content: center;
       margin-top: 50px;
-      border: solid black 1px;
+      
   }
+ #groen a:hover{
+     background-color: green;
+
+ }
+ #rood a:hover{
+     background-color: red;
+
+
+ }
+  
     
     
 
